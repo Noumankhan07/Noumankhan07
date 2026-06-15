@@ -13,13 +13,13 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Noumankhan07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![Consistent Contributor
-Research & Project-Oriented Developer
-Open Source Enthusiast
-Active Learner in AI & Data Science](https://github-profile-trophy.vercel.app/?username=Noumankhan07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🏅 Consistent Contributor
+🏅 Research & Project-Oriented Developer
+🏅 Open Source Enthusiast
+🏅 Active Learner in AI & Data Science
 
 ### 🔝 Top Contributed Repo
-![Deep Learning & AI Projects
+🔹 Deep Learning & AI Projects
 📌 Worked on CNN, LSTM, and 3D-CNN architectures
 📌 Applied models for real-world problem solving
 
@@ -27,9 +27,12 @@ Active Learner in AI & Data Science](https://github-profile-trophy.vercel.app/?u
 📊 Built data pipelines and dashboards using Python & BI tools
 
 🔹 Web & Application Development
-🌐 Developed full-stack applications with clean UI & scalable backend](https://github-contributor-stats.vercel.app/api?username=Noumankhan07&limit=5&theme=radical&combine_all_yearly_contributions=true)
+🌐 Developed full-stack applications with clean UI & scalable backend
 
----
-[![](https://komarev.com/ghpvc/?username=Noumankhan07&icon=5&color=0)](https://visitcount.itsvg.in)
+🔭 Currently working on: AI-based projects
+🤝 Looking to collaborate on: Open-source & ML projects
+🌱 Currently learning: Advanced Deep Learning & Cloud
+💬 Ask me about: AI, Web Dev, Data Science
+⚡ Fun fact: I enjoy solving real-world problems with code
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
